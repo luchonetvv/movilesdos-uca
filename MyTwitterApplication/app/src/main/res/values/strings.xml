@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Twitter Application</string>
+    <string name="mainactivity.textinputedit.screenname.hint">escriba el nombre de usuario de twitter</string>
+    <string name="mainactivity.appcompatbutton.usershow.text">Buscar</string>
+</resources>
